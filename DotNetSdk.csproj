@@ -43,6 +43,8 @@
     <Compile Include="Client.cs" />
     <Compile Include="Request.cs" />
     <Compile Include="Response.cs" />
+    <Compile Include="AuthToken.cs" />
+    <Compile Include="JsonRequest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
